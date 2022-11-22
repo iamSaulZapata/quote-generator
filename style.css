@@ -1,0 +1,9 @@
+/* comment */ /**/ /* Saul Zapata Project: "name here" 11/21/22 */
+html {
+  box-sizing: border-box; /* parent element, prevents excess padding */
+}
+
+body {
+  margin: 0; /* this will be 0 on all sides */
+  min-height: 100vh; /* vh(viewport height) content streaches fill screen */
+}
